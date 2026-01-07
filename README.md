@@ -3,7 +3,7 @@
 This repository hosts my personal academic website built using **GitHub Pages**.
 
 ## About
-I am a PhD student in Economics at the University of Nevada, Reno, with research interests in:
+I am a PhD Candidate in Economics at the University of Nevada, Reno, with research interests in:
 - Environmental and Resource Economics
 - Regulatory Compliance and Enforcement
 - Wastewater and Water Policy
